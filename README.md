@@ -23,19 +23,19 @@ This project is a mock scenario in which to make a proposal for bike sharing ide
 - In this graph we can look at the relationship between birth year and trip length. Looks like the later the birth year, the longer the ride duration. The general trend is that younger riders tend to use the bikes for longer periods of time.
 
 ![](images/utalize.PNG)
-- Bike Utilization
+- Bike Utilization graph in which the bubbles in this plot show the bike utilization levels. If a bike has a higher utilization level, it will be a larger bubble.
 
 ![](images/twh.PNG)
-- Trips by Weekday per Hour
+- Trips by Weekday per Hour heatmap  shows the number of bike trips by weekday for each hour of the day.
 
 ![](images/repair.PNG)
-- Bike Repairs
+- Bike Repairs treemap to get an idea of how often each bike is used, and then note which ones are used most frequently and needs repair or maintinace.
 
 ![](images/gw.PNG)
-- User Trips by Gender by Weekday
+- User Trips by Gender heatmap shows by Weekday the number of bike trips by gender for each hour for each day of the week as a .
 
 ![](images/Capture.PNG)
-- Checkout Times by Gender
+- Checkout Times by Gender graph shows the length of time that bikes are checked out for each gender.
 
 
 ### **Summary**
