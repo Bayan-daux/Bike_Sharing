@@ -7,9 +7,13 @@ This project is a mock scenario in which to make a proposal for bike sharing ide
 
 ### **Results**
 
-[link to Tabluea Story](https://public.tableau.com/shared/JWMFTGXJR?:display_count=n&:origin=viz_share_link)
+[Link to Tabluea Story](https://public.tableau.com/shared/JWMFTGXJR?:display_count=n&:origin=viz_share_link)
+![](images/story.PNG)
 
-[link to Tabluea Workbook](https://public.tableau.com/views/NYC_Bikeshare/NYCBikeshareStory?:language=en-US&:display_count=n&:origin=viz_share_link)
+[Link to Tabluea Workbook](https://public.tableau.com/views/NYC_Bikeshare/NYCBikeshareStory?:language=en-US&:display_count=n&:origin=viz_share_link)
+![](images/dashboard.PNG)
+
+
 
 ![](images/peakhours.PNG)
 - Based on this bar chart the top riding hours during August in New York are 5:00 p.m to 7:00 p.m. So, bike maintenance could be better performed 2:00 a.m. to 5:00 a.m during least active riding times.
