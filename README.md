@@ -11,10 +11,10 @@ This project is a mock scenario in which to make a proposal for bike sharing ide
 
 [link to Tabluea Workbook](https://public.tableau.com/views/NYC_Bikeshare/NYCBikeshareStory?:language=en-US&:display_count=n&:origin=viz_share_link)
 
-
+![](images/peakhours.PNG)
 - Based on this bar chart the top riding hours during August in New York are 5:00 p.m to 7:00 p.m. So, bike maintenance could be better performed 2:00 a.m. to 5:00 a.m during least active riding times.
 
-
+![](images/avrtrip.PNG)
 - In this graph we can look at the relationship between birth year and trip length. Looks like the later the birth year, the longer the ride duration. The general trend is that younger riders tend to use the bikes for longer periods of time.
 
 ### **Summary**
